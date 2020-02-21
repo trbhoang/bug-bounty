@@ -1,6 +1,6 @@
 # bug-bounty
 
-* [OMESPINO](https://omespino.com)
+* [@OMESPINO](https://omespino.com)
   
   Awesome bug bounty writerup 
   
