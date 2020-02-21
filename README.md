@@ -2,5 +2,5 @@
 
 * [@OMESPINO](https://omespino.com)
   
-  Awesome bug bounty writerup 
+  Awesome bug bounty write up. Author blogged his $$$$$ bug bounty recon, includes Google hacks. Really impressive! 
   
